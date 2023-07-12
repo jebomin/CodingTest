@@ -1,2 +1,2 @@
-# 코딩테스트 준비
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 🎖️백준
+꾸준히 백준 문제를 풀어봐요!
